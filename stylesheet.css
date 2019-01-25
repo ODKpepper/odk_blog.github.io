@@ -100,7 +100,7 @@ header {
 
 .top-wrapper {
   padding: 100px 0 100px 0;
-  background-image: url(./img/background_img_1.png);
+  background-image: url(background_img_1.png);
   background-size: cover;
   font-family: "Times New Roman";
   color: black;
